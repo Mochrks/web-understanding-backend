@@ -4,8 +4,6 @@ import { Routes, Route } from 'react-router-dom';
 import Home from '@/pages/homes/Home';
 import NotFound from '@/components/demo/NotFound';
 
-
-
 const AppRoutes: React.FC = () => {
     return (
         <Routes>
