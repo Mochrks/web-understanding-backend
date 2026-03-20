@@ -46,16 +46,16 @@ This project is designed to help understand **backend fundamentals** using **Spr
 - **Install dependencies**
 
     ```bash
-    mvn install
+   npm install
     ```
 
 - **Run the application**
 
     ```bash
-    mvn spring-boot:run
+    npm run dev
     ```
 
-- The application will be running on [http://localhost:8080](http://localhost:8080).
+- The application will be running on [http://localhost:5173](http://localhost:5173).
 
 ## Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mochrks)
